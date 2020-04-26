@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestLeaks</string>
+    <string name="text_handler_1">handler</string>
+</resources>
